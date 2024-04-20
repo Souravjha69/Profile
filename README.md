@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Souravjha69
-- 👀 I’m interested in Full Stack Developer
+- 👀 I’m interested in the field of Full Stack, Devops, Cloud Computing.
 - 🌱 I’m currently learning Frontend.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me Email: [ souravkumarjha301@gamil.com ]
